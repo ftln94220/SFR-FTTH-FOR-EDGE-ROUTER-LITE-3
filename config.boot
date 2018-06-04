@@ -505,7 +505,7 @@ system {
     login {
         user ubnt {
             authentication {
-                encrypted-password $6$Y/0giZkb4.JR$WoLvl8zIh4dGjn5/zRsPvvg1GZ5Vda3rs1iD06WhPpL8CSRUZAEVVeViqXQV4BhxX1HMQbgHpAzYU.Fpxg7K8/
+                encrypted-password $6$Y/0giZkb4.JR$WoLvl8zIh4dGjn5/zRsPvxxxxxxxxxxxxxxxxxxxxxxxxxeViqXQV4BhxX1HMQbgHpAzYU.Fpxg7K8/
                 plaintext-password ""
             }
             full-name ""
